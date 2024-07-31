@@ -1,12 +1,11 @@
 # Wrack
 
 ```bash
-# dev
+# dev server at localhost:3000
 npm run tauri dev
+
 # build
 npm run tauri build
 ```
-
-Web hosted at [http://localhost:3000](http://localhost:3000)
 
 Uses [`shadcn-ui`](https://ui.shadcn.com) components.
