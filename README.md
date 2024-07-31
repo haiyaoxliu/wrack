@@ -9,4 +9,4 @@ npm run tauri build
 
 Web hosted at [http://localhost:3000](http://localhost:3000)
 
-Uses [`shadcn-ui`](https://nextjs.org/docs/basic-features/font-optimization) components.
+Uses [`shadcn-ui`](https://ui.shadcn.com) components.
